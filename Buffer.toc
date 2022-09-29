@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: Buffer
+## Note: Raidbuff inspection addon
+## Author: Ognjen Komadina
+
+embeds.xml
+Core.lua
+
+buffs.lua
+auras.lua
